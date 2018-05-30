@@ -3,7 +3,7 @@ void settings() {
 }
 
 void setup() {
-  background(255);
+  background(0);
   noStroke();
   colorMode(HSB, 360, 100, 100, 1);
 
